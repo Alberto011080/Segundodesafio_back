@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Slippery when wet",
+    "description": "Bon jovi",
+    "price": 9,
+    "thumbnail": "./71BhISzzSRL._SL1448_.jpg",
+    "stock": 25,
+    "code": "A02",
+    "id": 1
+  },
+  {
+    "title": "New Jersey",
+    "description": "Bon jovi",
+    "price": 9,
+    "thumbnail": "./71BhISzzSRL._SL1448_.jpg",
+    "stock": 25,
+    "code": "A02",
+    "id": 2
+  },
+  {
+    "title": "Keep the faith",
+    "description": "Bon jovi",
+    "price": 9,
+    "thumbnail": "./71BhISzzSRL._SL1448_.jpg",
+    "stock": 25,
+    "code": "A02",
+    "id": 3
+  },
+  {
+    "title": "these days",
+    "description": "Bon jovi",
+    "price": 9,
+    "thumbnail": "./71BhISzzSRL._SL1448_.jpg",
+    "stock": 25,
+    "code": "A02",
+    "id": 4
+  }
+]
